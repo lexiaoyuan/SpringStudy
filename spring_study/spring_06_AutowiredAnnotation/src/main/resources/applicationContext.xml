@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!--配置注解支持-->
+    <context:annotation-config/>
+
+    <bean id="cat1" class="com.spring.pojo.Cat"/>
+    <bean id="cat2" class="com.spring.pojo.Cat"/>
+    <bean id="dog" class="com.spring.pojo.Dog"/>
+    <bean id="people" class="com.spring.pojo.People">
+        <property name="name" value="乐小猿"/>
+    </bean>
+
+</beans>
