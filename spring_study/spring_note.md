@@ -11,6 +11,8 @@
 - Spring文档：[https://docs.spring.io/spring/docs/5.2.3.RELEASE/spring-framework-reference/core.html#spring-core](https://docs.spring.io/spring/docs/5.2.3.RELEASE/spring-framework-reference/core.html#spring-core)
 - GitHub：[https://github.com/spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
 - 下载地址：[https://repo.spring.io/release/org/springframework/spring/](https://repo.spring.io/release/org/springframework/spring/)
+- 参考视频：[【狂神说Java】Spring5最新完整教程IDEA版通俗易懂_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WE411d7Dv)
+- 项目完整代码参考：[https://github.com/lexiaoyuan/SpringStudy](https://github.com/lexiaoyuan/SpringStudy)、[https://gitee.com/lexiaoyuan/spring-study](https://gitee.com/lexiaoyuan/spring-study)
 
 > 优点：
 >
@@ -2469,7 +2471,6 @@ public List<User> selectUserAll() {
 > User(id=5, name=李五, pwd=666666)
 > User(id=7, name=HelloInsert, pwd=insertHello)
 > User(id=8, name=事务, pwd=transaction)
->
 
 ![image-20200208165228602](noteImage/image-20200208165228602.png)
 
