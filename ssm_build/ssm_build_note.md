@@ -4,7 +4,9 @@
 
 # 整合SSM
 
-> 整合流程：
+- 参考视频：[【狂神说Java】SpringMVC最新教程IDEA版通俗易懂_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1aE41167Tu)
+
+- 项目完整参考代码：[lexiaoyuan/SpringStudy: My Spring study notes (github.com)](https://github.com/lexiaoyuan/SpringStudy)、[SpringStudy: 我的Spring学习笔记 (gitee.com)](https://gitee.com/lexiaoyuan/spring-study)
 
 ## 1. 基本环境搭建
 
